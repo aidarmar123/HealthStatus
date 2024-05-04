@@ -1,4 +1,6 @@
-﻿namespace HealthStatus
+﻿using HealthStatus.Pages;
+
+namespace HealthStatus
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new EntryPage();
         }
     }
 }
