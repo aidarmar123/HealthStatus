@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HealthStatus.Pages.HomePage"
+             Title="HomePage"
+             Background="{StaticResource AppLightGray}">
+    <ScrollView>
+        <VerticalStackLayout Spacing="10"
+                             Margin="10">
+            <Frame Background="{StaticResource AppGreenDim}"
+                    CornerRadius="10">
+                <Label Text="Intoduction to Mental Health Issues"
+                       TextColor="{StaticResource AppWhite}"
+                       WidthRequest="200"
+                       FontSize="20"
+                       Margin="10"/>
+            </Frame>
+            <HorizontalStackLayout HorizontalOptions="Center"
+                                   Spacing="10">
+                <Button ImageSource="dotnet_bot.png"
+                        TextColor="Black"
+                        
+                        BackgroundColor="{StaticResource AppWhite}"
+                        Text="Chat with Minday"
+                        x:Name="BChat"
+                        Clicked="BChat_Clicked"/>
+                <Button ImageSource="dotnet_bot.png"
+                        BackgroundColor="{StaticResource AppWhite}"
+        Text="Talk with Coach"
+                        TextColor="Black"
+        x:Name="BCoach"
+        Clicked="BCoach_Clicked"/>
+
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentPage>
