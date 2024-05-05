@@ -4,12 +4,21 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:HealthStatus"
+    xmlns:page="clr-namespace:HealthStatus.Pages"
     Shell.FlyoutBehavior="Disabled"
-    Title="HealthStatus">
+    Title="HealthStatus"
+    BackgroundColor="Black">
+    <FlyoutItem >
+        <ShellContent
+     Title="Test"
+     ContentTemplate="{DataTemplate local:MainPage}"
+     />
+        <ShellContent
+            
+            
+Title="Home"
+ContentTemplate="{DataTemplate page:HomePage}"/>
+    </FlyoutItem>
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
 
 </Shell>

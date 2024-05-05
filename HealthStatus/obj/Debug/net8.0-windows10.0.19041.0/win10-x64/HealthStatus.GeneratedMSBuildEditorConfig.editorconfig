@@ -36,6 +36,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.EntryPa
 build_metadata.AdditionalFiles.TargetPath = Pages\EntryPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\EntryPage.xaml
 
+[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
 [C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Resources.Styles.Colors.xaml

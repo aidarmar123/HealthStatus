@@ -74,6 +74,17 @@
 	  <MauiXaml Update="Pages\EntryPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Pages\HomePage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiImage Include="Resources\Images\emojis\deffoult.svg" />
+	  <MauiImage Include="Resources\Images\emojis\evil.svg" />
+	  <MauiImage Include="Resources\Images\emojis\happy.svg" />
+	  <MauiImage Include="Resources\Images\emojis\mad.svg" />
+	  <MauiImage Include="Resources\Images\emojis\smile.svg" />
 	</ItemGroup>
 
 </Project>

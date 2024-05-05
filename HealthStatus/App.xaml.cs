@@ -8,7 +8,8 @@ namespace HealthStatus
         {
             InitializeComponent();
 
-            MainPage = new EntryPage();
+            MainPage = new NavigationPage(new EntryPage());
+           
         }
     }
 }

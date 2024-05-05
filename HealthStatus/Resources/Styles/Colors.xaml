@@ -5,7 +5,19 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
     <!-- Note: For Android please see also Platforms\Android\Resources\values\colors.xml -->
-
+    <Color x:Key="AppWhite">#F5F5DC</Color>
+    <Color x:Key="AppDarkWhite">#EAE8DC</Color>
+    <Color x:Key="AppLightGray">#DCDCDC</Color>
+    
+    <Color x:Key="AppGreenBolotny">#9CCC65</Color>
+    <Color x:Key="AppGreenDark">#64AD1D</Color>
+    <Color x:Key="AppGreenDim">#A2CC5A</Color>
+    <Color x:Key="AppLightGreen">#64E91D</Color>
+    <Color x:Key="AppGreen8c">#8CC64B</Color>
+    <Color x:Key="AppGreen">#5AD11D</Color>
+    
+    
+    
     <Color x:Key="Primary">#512BD4</Color>
     <Color x:Key="PrimaryDark">#ac99ea</Color>
     <Color x:Key="PrimaryDarkText">#242424</Color>
