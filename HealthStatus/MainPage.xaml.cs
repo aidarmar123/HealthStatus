@@ -1,12 +1,15 @@
-﻿namespace HealthStatus
+﻿using HealthStatus.Services;
+
+namespace HealthStatus
 {
     public partial class MainPage : ContentPage
     {
         int count = 0;
 
-        public MainPage()
+        public MainPage(LocalDbService database)
         {
             InitializeComponent();
+           // db = database;
         }
 
         private void OnCounterClicked(object sender, EventArgs e)

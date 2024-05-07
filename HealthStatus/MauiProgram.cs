@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using HealthStatus.Services;
+using Microsoft.Extensions.Logging;
 
 namespace HealthStatus
 {
@@ -14,7 +15,8 @@ namespace HealthStatus
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
-
+            builder.Services.AddSingleton<LocalDbService>();
+            builder.Services.AddTransient<MainPage>();
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif

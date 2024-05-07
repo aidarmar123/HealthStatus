@@ -1,10 +1,14 @@
+using HealthStatus.Services;
+
 namespace HealthStatus.Pages;
 
 public partial class HomePage : ContentPage
 {
-	public HomePage()
+    LocalDbService database;
+	public HomePage(LocalDbService db)
 	{
 		InitializeComponent();
+        database = db;
 	}
 
     private void BChat_Clicked(object sender, EventArgs e)

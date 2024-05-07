@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthStatus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ad65ea34a37ec79a0040d6736104b3d47d9c9b61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+26217a6f9f4013e0957981a6a92c69de7baf61cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthStatus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthStatus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
