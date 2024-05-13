@@ -1,4 +1,5 @@
 ﻿using HealthStatus.Services;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
 namespace HealthStatus
@@ -17,8 +18,10 @@ namespace HealthStatus
                 });
             builder.Services.AddSingleton<LocalDbService>();
             builder.Services.AddTransient<MainPage>();
+
+            
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

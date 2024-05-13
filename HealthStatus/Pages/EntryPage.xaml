@@ -6,6 +6,7 @@
     <ScrollView>
         <VerticalStackLayout VerticalOptions="Center">
             <Label Text="How do you feel today?"
+                   FontSize="32"
                    HorizontalOptions="Center"/>
             <CollectionView x:Name="CVItems"
                             HorizontalOptions="Center"
@@ -17,8 +18,8 @@
 
                         <Image Source="{Binding Source}"
                                Margin="10"
-                           WidthRequest="100"
-                           HeightRequest="100"/>
+                           WidthRequest="70"
+                           HeightRequest="70"/>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>

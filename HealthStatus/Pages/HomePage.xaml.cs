@@ -5,15 +5,15 @@ namespace HealthStatus.Pages;
 public partial class HomePage : ContentPage
 {
     LocalDbService database;
-	public HomePage(LocalDbService db)
+	public HomePage()
 	{
 		InitializeComponent();
-        database = db;
+        database = App.db;
 	}
 
-    private void BChat_Clicked(object sender, EventArgs e)
+    private async void BChat_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PushAsync(new ChatWithMinday());
     }
 
     private void BCoach_Clicked(object sender, EventArgs e)

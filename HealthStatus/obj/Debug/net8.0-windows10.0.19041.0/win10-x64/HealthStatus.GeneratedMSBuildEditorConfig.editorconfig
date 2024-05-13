@@ -8,47 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HealthStatus
-build_property.ProjectDir = C:\Users\user\Desktop\Програмирование\C#\HealthStatus\HealthStatus\
+build_property.ProjectDir = C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/App.xaml]
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/AppShell.xaml]
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/MainPage.xaml]
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/Pages/EntryPage.xaml]
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/ChatWithMinday.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.ChatWithMinday.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ChatWithMinday.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ChatWithMinday.xaml
+
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/EntryPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.EntryPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\EntryPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\EntryPage.xaml
 
-[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/Pages/HomePage.xaml]
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
 
-[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/Resources/Styles/Colors.xaml]
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/user/Desktop/Програмирование/C\#/HealthStatus/HealthStatus/Resources/Styles/Styles.xaml]
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

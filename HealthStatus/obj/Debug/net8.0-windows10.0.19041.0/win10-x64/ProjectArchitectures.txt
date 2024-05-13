@@ -1,1 +1,1 @@
-C:\Users\user\Desktop\Програмирование\C#\HealthStatus\HealthStatus\HealthStatus.csproj;x64
+C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\HealthStatus.csproj;x64
