@@ -19,7 +19,7 @@ namespace HealthStatus.Models.DBModels
         
         [Column("StateId")]
         public int StateId { get; set; }
-
-        public State State { get; set; }
+        
+        private State State { get; set; }
     }
 }

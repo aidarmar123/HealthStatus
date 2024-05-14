@@ -8,26 +8,28 @@ namespace HealthStatus.Models.DBModels
 {
     public partial class Message
     {
-        
-        public Color Color
+
+        public string Color
         {
             get
-            {           
-                if(Avtor)
-                    return Colors.Green;
+            {
+                if (Avtor)
+                    return "#A2CC5A";
                 else
-                    return Colors.LightGray;
+                    return "#DCDCDC";
             }
         }
         public HorizontalAlignment Position
         {
             get
             {
-                if(Avtor)
-                    return HorizontalAlignment.Right;
-                else
+                if (Avtor)
+                    
                     return HorizontalAlignment.Left;
+                else
+                    return HorizontalAlignment.Right;
             }
+
         }
     }
 }

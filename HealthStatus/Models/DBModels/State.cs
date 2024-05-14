@@ -17,6 +17,6 @@ namespace HealthStatus.Models.DBModels
         [Column("Name")]
         public string Name { get; set; }
         [Column("Emoji")]
-        public ImageSource Emoji { get; set; }
+        public string Emoji { get; set; }
     }
 }

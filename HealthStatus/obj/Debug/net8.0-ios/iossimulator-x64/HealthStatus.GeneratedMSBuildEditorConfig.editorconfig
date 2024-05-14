@@ -40,17 +40,47 @@ build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.ChatWit
 build_metadata.AdditionalFiles.TargetPath = Pages\ChatWithMinday.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\ChatWithMinday.xaml
 
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/DiagramsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.DiagramsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DiagramsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DiagramsPage.xaml
+
 [C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/EntryPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.EntryPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\EntryPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\EntryPage.xaml
 
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/ExplorePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.ExplorePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ExplorePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ExplorePage.xaml
+
 [C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/MentalHealthPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.MentalHealthPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MentalHealthPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MentalHealthPage.xaml
+
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Pages/SleepPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HealthStatus.Pages.SleepPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SleepPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SleepPage.xaml
 
 [C:/Users/3D/Desktop/My works/MobileAppHealth/HealthStatus/HealthStatus/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

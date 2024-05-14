@@ -10,11 +10,6 @@ namespace HealthStatus.Models.DBModels
     [Table("Message")]
     public partial class Message
     {
-        public Message(string text)
-        {
-            Text = text;
-            Avtor = true;
-        }
 
         [PrimaryKey]
         [AutoIncrement]

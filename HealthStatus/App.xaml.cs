@@ -9,7 +9,7 @@ namespace HealthStatus
         public App()
         {
             InitializeComponent();
-
+            //MainPage = new MentalHealthPage();
             MainPage = new NavigationPage(new EntryPage());
             
         }

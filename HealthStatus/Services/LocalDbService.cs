@@ -11,25 +11,40 @@ namespace HealthStatus.Services
     public class LocalDbService
     {
         private const string DB_Name = "stateHealth.db3";
-        private readonly SQLiteAsyncConnection DataBase;
+        public const SQLite.SQLiteOpenFlags Flags =
+        // open the database in read/write mode
+        SQLite.SQLiteOpenFlags.ReadWrite |
+        // create the database if it doesn't exist
+        SQLite.SQLiteOpenFlags.Create |
+        // enable multi-threaded database access
+        SQLite.SQLiteOpenFlags.SharedCache;
+
+        SQLiteAsyncConnection DataBase;
         public LocalDbService()
         {
-            DataBase = new SQLiteAsyncConnection(Path.Combine(FileSystem.AppDataDirectory, DB_Name));
-            DataBase.CreateTableAsync<State>();
-            DataBase.CreateTableAsync<StateHealth>();
-            DataBase.CreateTableAsync<Message>();
+        }
+        public async Task Init()
+        {
+            if (DataBase is not null)
+                return;
+            DataBase = new SQLiteAsyncConnection(Path.Combine(FileSystem.AppDataDirectory, DB_Name), Flags);
+            await DataBase.CreateTableAsync<State>();
+            await DataBase.CreateTableAsync<StateHealth>();
+            await DataBase.CreateTableAsync<Message>();
         }
 
         public async Task<List<Message>> GetMessage()
         {
+            await Init();
             return await DataBase.Table<Message>().ToListAsync();
         }
-        public async Task<int> SaveMessage(Message msg)
+        public async Task SaveMessage(Message msg)
         {
-            if(msg.Id == 0) 
-                return await DataBase.UpdateAsync(msg);
+            await Init();
+            if (msg.Id != 0)
+                await DataBase.UpdateAsync(msg);
             else
-                return await DataBase.InsertAsync(msg);
+                await DataBase.InsertAsync(msg);
         }
     }
 }

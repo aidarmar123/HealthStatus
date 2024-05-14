@@ -8,17 +8,29 @@
     Shell.FlyoutBehavior="Disabled"
     Title="HealthStatus"
     BackgroundColor="Black">
-    
-    <FlyoutItem >
+
+    <FlyoutItem>
         <ShellContent
-     Title="Test"
-     ContentTemplate="{DataTemplate local:MainPage}"
-     />
+            Title="Home"
+            Icon="home.png"
+            ContentTemplate="{DataTemplate page:HomePage}" />
         <ShellContent
-            
-            
-Title="Home"
-ContentTemplate="{DataTemplate page:HomePage}"/>
+            Title="Exploe"
+            Icon="compass.png"
+            ContentTemplate="{DataTemplate page:ExplorePage}" />
+        <ShellContent
+            Title="Sleep"
+            Icon="moon.png"
+            ContentTemplate="{DataTemplate page:SleepPage}" />
+        <ShellContent
+            Title="Insights"
+            Icon="diagram.png"
+            ContentTemplate="{DataTemplate page:DiagramsPage}" />
+        <ShellContent
+            Title="Account"
+            Icon="profile.png"
+            ContentTemplate="{DataTemplate page:ProfilePage}" />
+
     </FlyoutItem>
 
 

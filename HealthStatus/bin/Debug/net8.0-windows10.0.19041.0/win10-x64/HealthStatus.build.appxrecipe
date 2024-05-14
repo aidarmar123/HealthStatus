@@ -61,6 +61,51 @@
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chat_bot.scale-100.png">
+      <PackagePath>chat_bot.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chat_bot.scale-125.png">
+      <PackagePath>chat_bot.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chat_bot.scale-150.png">
+      <PackagePath>chat_bot.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chat_bot.scale-200.png">
+      <PackagePath>chat_bot.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chat_bot.scale-400.png">
+      <PackagePath>chat_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coach_icon.scale-100.png">
+      <PackagePath>coach_icon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coach_icon.scale-125.png">
+      <PackagePath>coach_icon.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coach_icon.scale-150.png">
+      <PackagePath>coach_icon.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coach_icon.scale-200.png">
+      <PackagePath>coach_icon.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coach_icon.scale-400.png">
+      <PackagePath>coach_icon.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\compass.scale-100.png">
+      <PackagePath>compass.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\compass.scale-125.png">
+      <PackagePath>compass.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\compass.scale-150.png">
+      <PackagePath>compass.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\compass.scale-200.png">
+      <PackagePath>compass.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\compass.scale-400.png">
+      <PackagePath>compass.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\deffoult.scale-100.png">
       <PackagePath>deffoult.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -75,6 +120,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\deffoult.scale-400.png">
       <PackagePath>deffoult.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diagram.scale-100.png">
+      <PackagePath>diagram.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diagram.scale-125.png">
+      <PackagePath>diagram.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diagram.scale-150.png">
+      <PackagePath>diagram.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diagram.scale-200.png">
+      <PackagePath>diagram.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diagram.scale-400.png">
+      <PackagePath>diagram.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
@@ -106,144 +166,6 @@
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\evil.scale-400.png">
       <PackagePath>evil.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogo.ico">
-      <PackagePath>flogo.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLargeTile.scale-100.png">
-      <PackagePath>flogoLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLargeTile.scale-125.png">
-      <PackagePath>flogoLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLargeTile.scale-150.png">
-      <PackagePath>flogoLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLargeTile.scale-200.png">
-      <PackagePath>flogoLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLargeTile.scale-400.png">
-      <PackagePath>flogoLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>flogoLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>flogoLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>flogoLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>flogoLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>flogoLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>flogoLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>flogoLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>flogoLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>flogoLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>flogoLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.scale-100.png">
-      <PackagePath>flogoLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.scale-125.png">
-      <PackagePath>flogoLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.scale-150.png">
-      <PackagePath>flogoLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.scale-200.png">
-      <PackagePath>flogoLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.scale-400.png">
-      <PackagePath>flogoLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.targetsize-16.png">
-      <PackagePath>flogoLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.targetsize-24.png">
-      <PackagePath>flogoLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.targetsize-256.png">
-      <PackagePath>flogoLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.targetsize-32.png">
-      <PackagePath>flogoLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoLogo.targetsize-48.png">
-      <PackagePath>flogoLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoMediumTile.scale-100.png">
-      <PackagePath>flogoMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoMediumTile.scale-125.png">
-      <PackagePath>flogoMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoMediumTile.scale-150.png">
-      <PackagePath>flogoMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoMediumTile.scale-200.png">
-      <PackagePath>flogoMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoMediumTile.scale-400.png">
-      <PackagePath>flogoMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoSmallTile.scale-100.png">
-      <PackagePath>flogoSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoSmallTile.scale-125.png">
-      <PackagePath>flogoSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoSmallTile.scale-150.png">
-      <PackagePath>flogoSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoSmallTile.scale-200.png">
-      <PackagePath>flogoSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoSmallTile.scale-400.png">
-      <PackagePath>flogoSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoStoreLogo.scale-100.png">
-      <PackagePath>flogoStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoStoreLogo.scale-125.png">
-      <PackagePath>flogoStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoStoreLogo.scale-150.png">
-      <PackagePath>flogoStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoStoreLogo.scale-200.png">
-      <PackagePath>flogoStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoStoreLogo.scale-400.png">
-      <PackagePath>flogoStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoWideTile.scale-100.png">
-      <PackagePath>flogoWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoWideTile.scale-125.png">
-      <PackagePath>flogoWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoWideTile.scale-150.png">
-      <PackagePath>flogoWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoWideTile.scale-200.png">
-      <PackagePath>flogoWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flogoWideTile.scale-400.png">
-      <PackagePath>flogoWideTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\happy.scale-100.png">
       <PackagePath>happy.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -259,6 +181,21 @@
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\happy.scale-400.png">
       <PackagePath>happy.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
+      <PackagePath>home.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-125.png">
+      <PackagePath>home.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-150.png">
+      <PackagePath>home.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-200.png">
+      <PackagePath>home.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-400.png">
+      <PackagePath>home.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mad.scale-100.png">
       <PackagePath>mad.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -273,6 +210,36 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mad.scale-400.png">
       <PackagePath>mad.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\moon.scale-100.png">
+      <PackagePath>moon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\moon.scale-125.png">
+      <PackagePath>moon.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\moon.scale-150.png">
+      <PackagePath>moon.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\moon.scale-200.png">
+      <PackagePath>moon.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\moon.scale-400.png">
+      <PackagePath>moon.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-100.png">
+      <PackagePath>profile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-125.png">
+      <PackagePath>profile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-150.png">
+      <PackagePath>profile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-200.png">
+      <PackagePath>profile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-400.png">
+      <PackagePath>profile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\MobileAppHealth\HealthStatus\HealthStatus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\smile.scale-100.png">
       <PackagePath>smile.scale-100.png</PackagePath>
@@ -297,6 +264,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microcharts.maui\1.0.0\lib\net6.0-windows10.0.19041\Microcharts.Maui.dll">
+      <PackagePath>Microcharts.Maui.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -393,6 +363,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Release.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Release.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\skiasharp\2.88.3\lib\net6.0\SkiaSharp.dll">
+      <PackagePath>SkiaSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\skiasharp.views.maui.controls\2.88.3\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Controls.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\skiasharp.views.maui.core\2.88.3\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Core.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\skiasharp.views.winui\2.88.3\lib\net6.0-windows10.0.19041.0\SkiaSharp.Views.Windows.dll">
+      <PackagePath>SkiaSharp.Views.Windows.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\sqlite-net-pcl\1.9.172\lib\netstandard2.0\SQLite-net.dll">
       <PackagePath>SQLite-net.dll</PackagePath>
@@ -513,6 +495,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\skiasharp.nativeassets.win32\2.88.3\runtimes\win-x64\native\libSkiaSharp.dll">
+      <PackagePath>libSkiaSharp.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.8\runtimes\win-x64\native\e_sqlite3.dll">
       <PackagePath>e_sqlite3.dll</PackagePath>
